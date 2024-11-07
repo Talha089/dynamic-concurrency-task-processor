@@ -18,7 +18,7 @@ This project is a JavaScript-based task processor that handles tasks with a dyna
 ### 1. Clone the Repository
 
 ```bash
-git clone ###
+git clone https://github.com/Talha089/dynamic-concurrency-task-processor.git
 ```
 
 ### 2. Run the Program
